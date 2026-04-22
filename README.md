@@ -46,4 +46,4 @@ Check out my pinned repositories below
 
 <a href="http://www.github.com/nemeth-laszlo-code"><img src="https://github-readme-stats.vercel.app/api?username=nemeth-laszlo-code&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nemeth-laszlo-code's GitHub stats" /></a>
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nemeth_laszlo_code&v=1)](https://wakatime.com/@nemeth_laszlo_code)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nemeth_laszlo_code&v=1&langs_count=15)](https://wakatime.com/@nemeth_laszlo_code)
